@@ -1,0 +1,10 @@
+@VN Express
+#Thời sự^https://vnexpress.net/rss/thoi-su.rss
+#Pháo luật^https://vnexpress.net/rss/phap-luat.rss
+@Thanh niên
+#Thể thao^https://www.thanhniennews.com/rss/sports-6.rss
+#Sức khỏe^https://www.thanhniennews.com/rss/health-9.rss
+@Tuổi trẻ
+#Kinh tế^https://tuoitre.vn/rss/kinh-doanh.rss
+#Thế giới^https://tuoitre.vn/rss/the-gioi.rss
+#Văn hóa^https://tuoitre.vn/rss/van-hoa.rss

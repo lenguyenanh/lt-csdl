@@ -1,0 +1,13 @@
+G:\BaiTapTuan3\BaiTapTuan3\bin\Debug\BaiTapTuan3.exe.config
+G:\BaiTapTuan3\BaiTapTuan3\bin\Debug\BaiTapTuan3.exe
+G:\BaiTapTuan3\BaiTapTuan3\bin\Debug\BaiTapTuan3.pdb
+G:\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.AssemblyReference.cache
+G:\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.Properties.Resources.resources
+G:\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.GenerateResource.cache
+G:\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.CoreCompileInputs.cache
+G:\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.exe
+G:\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.pdb
+G:\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.MainForm.resources
+G:\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.AddFeedForm.resources
+G:\BaiTapTuan3\BaiTapTuan3\bin\Debug\Data\data.txt
+G:\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.Components.NewControl.resources
