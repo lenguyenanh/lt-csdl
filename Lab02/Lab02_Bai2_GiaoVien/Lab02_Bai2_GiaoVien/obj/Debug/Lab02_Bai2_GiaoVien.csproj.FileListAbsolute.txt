@@ -1,0 +1,13 @@
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\bin\Debug\Lab02_Bai2_GiaoVien.exe.config
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\bin\Debug\Lab02_Bai2_GiaoVien.exe
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\bin\Debug\Lab02_Bai2_GiaoVien.pdb
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.csproj.AssemblyReference.cache
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.Properties.Resources.resources
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.csproj.GenerateResource.cache
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.csproj.CoreCompileInputs.cache
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.exe
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.pdb
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.FormGiaoVien.resources
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.FormTBGiaoVien.resources
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.InfoGV.resources
+G:\Lab02_Bai2_GiaoVien\Lab02_Bai2_GiaoVien\obj\Debug\Lab02_Bai2_GiaoVien.SearchGV.resources

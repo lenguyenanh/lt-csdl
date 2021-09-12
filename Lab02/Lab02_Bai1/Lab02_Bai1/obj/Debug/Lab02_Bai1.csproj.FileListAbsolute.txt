@@ -1,0 +1,10 @@
+G:\Lab02_Bai1\Lab02_Bai1\bin\Debug\Lab02_Bai1.exe.config
+G:\Lab02_Bai1\Lab02_Bai1\bin\Debug\Lab02_Bai1.exe
+G:\Lab02_Bai1\Lab02_Bai1\bin\Debug\Lab02_Bai1.pdb
+G:\Lab02_Bai1\Lab02_Bai1\obj\Debug\Lab02_Bai1.csproj.AssemblyReference.cache
+G:\Lab02_Bai1\Lab02_Bai1\obj\Debug\Lab02_Bai1.Properties.Resources.resources
+G:\Lab02_Bai1\Lab02_Bai1\obj\Debug\Lab02_Bai1.csproj.GenerateResource.cache
+G:\Lab02_Bai1\Lab02_Bai1\obj\Debug\Lab02_Bai1.csproj.CoreCompileInputs.cache
+G:\Lab02_Bai1\Lab02_Bai1\obj\Debug\Lab02_Bai1.exe
+G:\Lab02_Bai1\Lab02_Bai1\obj\Debug\Lab02_Bai1.pdb
+G:\Lab02_Bai1\Lab02_Bai1\obj\Debug\Lab02_Bai1.FormTrungTam.resources

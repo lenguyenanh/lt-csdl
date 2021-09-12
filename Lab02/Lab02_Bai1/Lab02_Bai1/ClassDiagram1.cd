@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab02_Bai1.FormTrungTam">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Form1_Load" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AACEAAAwECAABBAAIAHAAEiCBCEAAAIAAAQAAIAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_Bai1.Program">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_Bai1.Properties.Resources">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <Members>
+      <Property Name="images" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAEQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_Bai1.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
