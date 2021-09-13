@@ -1,0 +1,11 @@
+G:\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+G:\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+G:\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+G:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.AssemblyReference.cache
+G:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.FormSinhVien.resources
+G:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+G:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+G:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+G:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+G:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
+G:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.FormTuyChon.resources
