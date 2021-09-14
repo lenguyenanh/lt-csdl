@@ -62,7 +62,7 @@ namespace Lab03_Demo
             this.rdNgaySinh.Location = new System.Drawing.Point(289, 39);
             this.rdNgaySinh.Name = "rdNgaySinh";
             this.rdNgaySinh.Size = new System.Drawing.Size(104, 23);
-            this.rdNgaySinh.TabIndex = 0;
+            this.rdNgaySinh.TabIndex = 2;
             this.rdNgaySinh.TabStop = true;
             this.rdNgaySinh.Text = "Ngày Sinh";
             this.rdNgaySinh.UseVisualStyleBackColor = true;
@@ -75,7 +75,7 @@ namespace Lab03_Demo
             this.rdHoTen.Location = new System.Drawing.Point(158, 39);
             this.rdHoTen.Name = "rdHoTen";
             this.rdHoTen.Size = new System.Drawing.Size(83, 23);
-            this.rdHoTen.TabIndex = 0;
+            this.rdHoTen.TabIndex = 1;
             this.rdHoTen.TabStop = true;
             this.rdHoTen.Text = "Họ Tên";
             this.rdHoTen.UseVisualStyleBackColor = true;

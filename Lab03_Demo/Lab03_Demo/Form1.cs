@@ -129,12 +129,17 @@ namespace Lab03_Demo
                 ThemSV(sv);
             }
         }
+
+        private void TongSinhVien()
+        {
+            sttLabelTongSinhVien.Text = "Tổng Số Sinh Viên: " + qlsv.DanhSach.Count;
+        }
         #endregion
 
         #region Các sự kiện
         private void FormSinhVien_Load(object sender, EventArgs e)
         {
-
+            TongSinhVien();
         }
 
         private void lvSinhVien_SelectedIndexChanged(object sender, EventArgs e)
@@ -175,6 +180,9 @@ namespace Lab03_Demo
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
+            if (lvSinhVien.CheckedItems.Count == 0)
+                MessageBox.Show("Chưa chọn sinh viên cần xóa", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
             int count, i;
             ListViewItem lvitem;
 
@@ -184,7 +192,7 @@ namespace Lab03_Demo
             {
                 lvitem = this.lvSinhVien.Items[i];
 
-                if (lvitem.Checked)
+                if (lvitem.Selected || lvitem.Checked)
                     qlsv.Xoa(lvitem.SubItems[0].Text, SoSanhTheoMa);
             }
 

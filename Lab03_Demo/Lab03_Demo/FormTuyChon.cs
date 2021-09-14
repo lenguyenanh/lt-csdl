@@ -112,7 +112,6 @@ namespace Lab03_Demo
 
             lvSinhVien.Items.Clear();
             lvSinhVien.Items.Add(item);
-
         }
     }
 }
