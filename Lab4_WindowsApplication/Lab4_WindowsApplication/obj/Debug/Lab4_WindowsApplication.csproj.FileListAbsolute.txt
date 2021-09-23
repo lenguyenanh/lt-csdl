@@ -1,0 +1,10 @@
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\bin\Debug\Lab4_WindowsApplication.exe.config
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\bin\Debug\Lab4_WindowsApplication.exe
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\bin\Debug\Lab4_WindowsApplication.pdb
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\obj\Debug\Lab4_WindowsApplication.csproj.AssemblyReference.cache
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\obj\Debug\Lab4_WindowsApplication.Form1.resources
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\obj\Debug\Lab4_WindowsApplication.Properties.Resources.resources
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\obj\Debug\Lab4_WindowsApplication.csproj.GenerateResource.cache
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\obj\Debug\Lab4_WindowsApplication.csproj.CoreCompileInputs.cache
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\obj\Debug\Lab4_WindowsApplication.exe
+G:\Lab4_WindowsApplication\Lab4_WindowsApplication\obj\Debug\Lab4_WindowsApplication.pdb
