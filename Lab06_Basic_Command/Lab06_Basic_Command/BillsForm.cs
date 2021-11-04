@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Lab06_Basic_Command
@@ -76,5 +70,40 @@ namespace Lab06_Basic_Command
 			sqlConnection.Dispose();
 		}
 
-	}
+        private void dtpCheckOut1_ValueChanged(object sender, EventArgs e)
+        {
+			string connectionString = "server=.; database = RestaurantManagement; Integrated Security = true;";
+			sqlConnection = new SqlConnection(connectionString);
+			sqlCommand = sqlConnection.CreateCommand();
+			sqlCommand.CommandText = "SELECT * FROM Bills WHERE CheckoutDate Between '" + dtpCheckOut1.Value + "' and '" + dtpCheckOut2.Value + "'";
+			
+			sqlConnection.Open();
+			sqlCommand.ExecuteNonQuery();
+			sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+			DataTable dataTable = new DataTable();
+			sqlDataAdapter.Fill(dataTable);
+
+			dgvBills.DataSource = dataTable;
+			sqlConnection.Close();
+			sqlConnection.Dispose();
+		}
+
+        private void dtpCheckOut2_ValueChanged(object sender, EventArgs e)
+        {
+			string connectionString = "server=.; database = RestaurantManagement; Integrated Security = true;";
+			sqlConnection = new SqlConnection(connectionString);
+			sqlCommand = sqlConnection.CreateCommand();
+			sqlCommand.CommandText = "SELECT * FROM Bills WHERE CheckoutDate Between '" + dtpCheckOut1.Value + "' and '" + dtpCheckOut2.Value + "'";
+			
+			sqlConnection.Open();
+			sqlCommand.ExecuteNonQuery();
+			sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+			DataTable dataTable = new DataTable();
+			sqlDataAdapter.Fill(dataTable);
+
+			dgvBills.DataSource = dataTable;
+			sqlConnection.Close();
+			sqlConnection.Dispose();
+		}
+    }
 }

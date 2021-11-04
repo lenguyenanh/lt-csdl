@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Lab06_Basic_Command.AccountManager">
-    <Position X="5" Y="0.5" Width="1.5" />
+    <Position X="6.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgCAAASgAAIAAAACBAAACAAAAEAAGCAQEAAQAAAA=</HashCode>
       <FileName>AccountManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Lab06_Basic_Command.BillDetailsForm">
-    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Position X="9.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAIAAACAAAAAAAACAAAgCAAAAEAAAgAAAAAQAAAA=</HashCode>
       <FileName>BillDetailsForm.cs</FileName>
@@ -17,53 +17,53 @@
   <Class Name="Lab06_Basic_Command.BillsForm">
     <Position X="2" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>gAAAAAAFACgggAAAAACAAACCIAAEEAIAAgIAAAQIAEA=</HashCode>
+      <HashCode>gAAAAAAFACgggBAAAACAAACCIAAEEAIAAgIAAAVIAEA=</HashCode>
       <FileName>BillsForm.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Lab06_Basic_Command.FoodForm">
-    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Position X="5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAiAAAAASoAgkAAIACAAAACAAAAkAAAAAAAARUCAAA=</HashCode>
       <FileName>FoodForm.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Lab06_Basic_Command.Form1">
-    <Position X="9.5" Y="0.5" Width="1.5" />
+    <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQIBQAAABCAAAJYQGCCBCICCA4AAkjAAAgABAAQAAQY=</HashCode>
       <FileName>Form1.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Lab06_Basic_Command.Program" Collapsed="true">
-    <Position X="14.25" Y="4.25" Width="1.5" />
+    <Position X="13.25" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Lab06_Basic_Command.RoleAccount">
-    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Position X="8" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAgAAIAACgAAAACAACAAgBCAAAAEAAAAAQAAAQAAAA=</HashCode>
       <FileName>RoleAccount.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Lab06_Basic_Command.TableForm">
-    <Position X="8" Y="0.5" Width="1.5" />
+    <Position X="3.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAQEACgCgAAAAACBAAACgAAgEIAAAACEAQQAAAA=</HashCode>
       <FileName>TableForm.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Lab06_Basic_Command.Properties.Resources" Collapsed="true">
-    <Position X="15.5" Y="6" Width="1.5" />
+    <Position X="12.5" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
     </TypeIdentifier>
   </Class>
   <Class Name="Lab06_Basic_Command.Properties.Settings" Collapsed="true">
-    <Position X="16" Y="2" Width="1.5" />
+    <Position X="12.75" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
