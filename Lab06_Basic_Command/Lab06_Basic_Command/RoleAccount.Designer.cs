@@ -30,10 +30,10 @@ namespace Lab06_Basic_Command
         private void InitializeComponent()
         {
             this.dgvRoleAccount = new System.Windows.Forms.DataGridView();
-            this.RoleID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FullName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.AccountName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.RoleName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Actived = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Notes = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvRoleAccount)).BeginInit();
             this.SuspendLayout();
             // 
@@ -41,10 +41,10 @@ namespace Lab06_Basic_Command
             // 
             this.dgvRoleAccount.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvRoleAccount.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.RoleID,
+            this.FullName,
             this.AccountName,
-            this.Actived,
-            this.Notes});
+            this.RoleName,
+            this.Actived});
             this.dgvRoleAccount.Location = new System.Drawing.Point(12, 12);
             this.dgvRoleAccount.Name = "dgvRoleAccount";
             this.dgvRoleAccount.RowHeadersWidth = 51;
@@ -52,13 +52,13 @@ namespace Lab06_Basic_Command
             this.dgvRoleAccount.Size = new System.Drawing.Size(776, 426);
             this.dgvRoleAccount.TabIndex = 0;
             // 
-            // RoleID
+            // FullName
             // 
-            this.RoleID.DataPropertyName = "RoleID";
-            this.RoleID.HeaderText = "Mã vai trò";
-            this.RoleID.MinimumWidth = 6;
-            this.RoleID.Name = "RoleID";
-            this.RoleID.Width = 125;
+            this.FullName.DataPropertyName = "FullName";
+            this.FullName.HeaderText = "Họ và tên";
+            this.FullName.MinimumWidth = 6;
+            this.FullName.Name = "FullName";
+            this.FullName.Width = 125;
             // 
             // AccountName
             // 
@@ -68,21 +68,21 @@ namespace Lab06_Basic_Command
             this.AccountName.Name = "AccountName";
             this.AccountName.Width = 125;
             // 
+            // RoleName
+            // 
+            this.RoleName.DataPropertyName = "RoleName";
+            this.RoleName.HeaderText = "Tên vai trò";
+            this.RoleName.MinimumWidth = 6;
+            this.RoleName.Name = "RoleName";
+            this.RoleName.Width = 125;
+            // 
             // Actived
             // 
             this.Actived.DataPropertyName = "Actived";
-            this.Actived.HeaderText = "Đã kích hoạt";
+            this.Actived.HeaderText = "Kích hoạt";
             this.Actived.MinimumWidth = 6;
             this.Actived.Name = "Actived";
             this.Actived.Width = 125;
-            // 
-            // Notes
-            // 
-            this.Notes.DataPropertyName = "Notes";
-            this.Notes.HeaderText = "Ghi chú";
-            this.Notes.MinimumWidth = 6;
-            this.Notes.Name = "Notes";
-            this.Notes.Width = 125;
             // 
             // RoleAccount
             // 
@@ -100,9 +100,9 @@ namespace Lab06_Basic_Command
         #endregion
 
         private System.Windows.Forms.DataGridView dgvRoleAccount;
-        private System.Windows.Forms.DataGridViewTextBoxColumn RoleID;
+        private System.Windows.Forms.DataGridViewTextBoxColumn FullName;
         private System.Windows.Forms.DataGridViewTextBoxColumn AccountName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn RoleName;
         private System.Windows.Forms.DataGridViewTextBoxColumn Actived;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Notes;
     }
 }

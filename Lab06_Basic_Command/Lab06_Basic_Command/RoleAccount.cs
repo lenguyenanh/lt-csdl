@@ -15,13 +15,14 @@ namespace Lab06_Basic_Command
             InitializeComponent();
         }
 
-        public void LoadRoleAccount()
+        public void LoadRoleAccount(string accountName)
         {
             string connectionString = "server=.; database = RestaurantManagement; Integrated Security = true; ";
             sqlConnection = new SqlConnection(connectionString);
             sqlCommand = sqlConnection.CreateCommand();
 
-            sqlCommand.CommandText = "SELECT * FROM RoleAccount" ;
+            sqlCommand.CommandText = "SELECT FullName, A.AccountName, RoleName , Actived FROM RoleAccount A, Role B, Account C " +
+                "WHERE A.RoleID = B.ID and A.AccountName = C.AccountName and A.AccountName = '" + accountName + "'";
 
             sqlConnection.Open();
             sqlDataAdapter = new SqlDataAdapter(sqlCommand);

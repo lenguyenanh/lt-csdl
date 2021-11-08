@@ -39,6 +39,8 @@ namespace Lab06_Basic_Command
             this.DateCreated = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.xóaTàiKhoảnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.btnResetPass = new System.Windows.Forms.Button();
+            this.xóaTàiKhoảnToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dgvAccount)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -60,7 +62,8 @@ namespace Lab06_Basic_Command
             this.dgvAccount.Name = "dgvAccount";
             this.dgvAccount.RowHeadersWidth = 51;
             this.dgvAccount.RowTemplate.Height = 24;
-            this.dgvAccount.Size = new System.Drawing.Size(954, 426);
+            this.dgvAccount.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvAccount.Size = new System.Drawing.Size(1067, 384);
             this.dgvAccount.TabIndex = 0;
             // 
             // AccountName
@@ -115,9 +118,10 @@ namespace Lab06_Basic_Command
             // 
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.xóaTàiKhoảnToolStripMenuItem});
+            this.xóaTàiKhoảnToolStripMenuItem,
+            this.xóaTàiKhoảnToolStripMenuItem1});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(225, 28);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(225, 52);
             // 
             // xóaTàiKhoảnToolStripMenuItem
             // 
@@ -126,11 +130,29 @@ namespace Lab06_Basic_Command
             this.xóaTàiKhoảnToolStripMenuItem.Text = "Xem danh sách vai trò";
             this.xóaTàiKhoảnToolStripMenuItem.Click += new System.EventHandler(this.xóaTàiKhoảnToolStripMenuItem_Click);
             // 
+            // btnResetPass
+            // 
+            this.btnResetPass.Location = new System.Drawing.Point(930, 402);
+            this.btnResetPass.Name = "btnResetPass";
+            this.btnResetPass.Size = new System.Drawing.Size(149, 36);
+            this.btnResetPass.TabIndex = 1;
+            this.btnResetPass.Text = "Reset mật khẩu";
+            this.btnResetPass.UseVisualStyleBackColor = true;
+            this.btnResetPass.Click += new System.EventHandler(this.btnResetPass_Click);
+            // 
+            // xóaTàiKhoảnToolStripMenuItem1
+            // 
+            this.xóaTàiKhoảnToolStripMenuItem1.Name = "xóaTàiKhoảnToolStripMenuItem1";
+            this.xóaTàiKhoảnToolStripMenuItem1.Size = new System.Drawing.Size(224, 24);
+            this.xóaTàiKhoảnToolStripMenuItem1.Text = "Xóa tài khoản";
+            this.xóaTàiKhoảnToolStripMenuItem1.Click += new System.EventHandler(this.xóaTàiKhoảnToolStripMenuItem1_Click);
+            // 
             // AccountManager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(978, 450);
+            this.ClientSize = new System.Drawing.Size(1091, 450);
+            this.Controls.Add(this.btnResetPass);
             this.Controls.Add(this.dgvAccount);
             this.Name = "AccountManager";
             this.Text = "AccountManager";
@@ -151,5 +173,7 @@ namespace Lab06_Basic_Command
         private System.Windows.Forms.DataGridViewTextBoxColumn DateCreated;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem xóaTàiKhoảnToolStripMenuItem;
+        private System.Windows.Forms.Button btnResetPass;
+        private System.Windows.Forms.ToolStripMenuItem xóaTàiKhoảnToolStripMenuItem1;
     }
 }

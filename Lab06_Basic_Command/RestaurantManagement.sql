@@ -373,5 +373,13 @@ ELSE
 RETURN 1
 GO
 
-select * from Food where Name like N'%Cơm%'
+update Account SET Password = 'legiacong' where AccountName = 'lgcong'
+select * from Account
+select * from RoleAccount
+select * from Role
+select FullName, A.AccountName, RoleName , Actived
+from RoleAccount A, Role B, Account C
+where A.RoleID = B.ID and A.AccountName = C.AccountName and A.AccountName = 'lgcong'
 
+UPDATE RoleAccount SET Actived = 1 WHERE AccountName = 'lgcong'
+select * from RoleAccount where AccountName = 'lgcong'
