@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab7_Advanced_Command.AccountForm">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAABWgAAIAQAACFAAACAAAAkAACGAQEAAQgAAI=</HashCode>
+      <FileName>AccountForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.AddCategory">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAABAAAACAAAACAAAAkAAAAAQAAAQACAI=</HashCode>
+      <FileName>AddCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.FoodInfoForm">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QkACAIAACiACABEARACAAECDCAAAEAQAAAEAAAQAACw=</HashCode>
+      <FileName>FoodInfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.Form1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAiAADQQSgAgRAAOgKBIMICAAAIEAABAgUYQAQCAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.NhatKyHoatDong">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAgAAACgAQBAAAACEAAACIAAAUACAACCAAAQEAQA=</HashCode>
+      <FileName>NhatKyHoatDong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.OrderDetailsForm">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAAAAAACAAQACAAAAEAAAgAAAAAQAAAA=</HashCode>
+      <FileName>OrderDetailsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.OrdersForm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAgAEACggwBAAAACAAACCIAAEEAIAAgIAAAVIAEA=</HashCode>
+      <FileName>OrdersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.Program" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.RoleAccount">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAABCgAgAMSAACAAABKAQAA0AAAAIAAEAQEIAI=</HashCode>
+      <FileName>RoleAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.Properties.Resources" Collapsed="true">
+    <Position X="17" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Advanced_Command.Properties.Settings" Collapsed="true">
+    <Position X="18.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
