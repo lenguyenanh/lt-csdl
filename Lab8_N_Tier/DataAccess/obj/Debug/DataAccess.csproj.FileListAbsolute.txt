@@ -1,0 +1,6 @@
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\DataAccess\obj\Debug\DataAccess.pdb

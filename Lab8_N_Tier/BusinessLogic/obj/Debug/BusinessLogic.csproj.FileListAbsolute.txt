@@ -1,0 +1,9 @@
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -1,0 +1,16 @@
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\bin\Debug\Lab8_N_Tier.exe.config
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\bin\Debug\Lab8_N_Tier.exe
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\bin\Debug\Lab8_N_Tier.pdb
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\obj\Debug\Lab8_N_Tier.csproj.AssemblyReference.cache
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\obj\Debug\Lab8_N_Tier.Form1.resources
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\obj\Debug\Lab8_N_Tier.Properties.Resources.resources
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\obj\Debug\Lab8_N_Tier.csproj.GenerateResource.cache
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\obj\Debug\Lab8_N_Tier.csproj.CoreCompileInputs.cache
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\obj\Debug\Lab8_N_Tier.exe
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\obj\Debug\Lab8_N_Tier.pdb
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\bin\Debug\BusinessLogic.dll
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\bin\Debug\DataAccess.dll
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\bin\Debug\BusinessLogic.pdb
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\bin\Debug\DataAccess.pdb
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\obj\Debug\Lab8_N_Tier.csproj.CopyComplete
+C:\Users\Anh\OneDrive\Desktop\Lab8_N_Tier\Lab8_N_Tier\obj\Debug\Lab8_N_Tier.RoleAccount.resources
