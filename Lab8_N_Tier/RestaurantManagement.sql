@@ -514,5 +514,3 @@ ELSE IF @Action = 2 -- Nếu Action = 2, xóa dữ liệu
 BEGIN
  DELETE FROM Food WHERE ID = @ID
 END
-
-
