@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab9_Entity_Framework.AccountForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgCAABWgAAIAQAQCBAAACAAACkAAGGAQEAAQAAAI=</HashCode>
+      <FileName>AccountForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.BillDetailsForm">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAAAAAACAAQACAAAAEAAAgAAAAAQAAAA=</HashCode>
+      <FileName>BillDetailsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.BillsForm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAgAFACggwBAAAACAAACCIAAEEAIAAgIAAARIAEA=</HashCode>
+      <FileName>BillsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.Form1">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QUAAAABBACICgJgAAICAAoHyAxAAAAAEJAYBgAQAAwQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.NhatKyHoaDon">
+    <Position X="8" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAgAAACgAQBAAAACEAAACIAAAUACAACCAAAQEAQA=</HashCode>
+      <FileName>NhatKyHoaDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.Program" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.RoleAccount">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAABCgAgAMSAACAAABKAQAAEAAAAAAAEAQEIAA=</HashCode>
+      <FileName>RoleAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.TableForm">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAQEACgCgAAAAACBAAACgAAgEIAAAACEAQQABAA=</HashCode>
+      <FileName>TableForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.UpdateCategoryForm">
+    <Position X="3.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAACAAgxEAAACAIAACgAAAgBAAAAAgAAIACAA=</HashCode>
+      <FileName>UpdateCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.UpdateFoodForm">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAAGAgAFEAUACACAACEAAQABAAgACAACIIAAA=</HashCode>
+      <FileName>UpdateFoodForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.Models.Category">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.Models.Food">
+    <Position X="5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAQAAAAAAIACAAAQAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.Models.FoodModel">
+    <Position X="5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAQAAAAAAIAAAAAQAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FoodModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.Models.RestaurantContext">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\RestaurantContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.Properties.Resources" Collapsed="true">
+    <Position X="13" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_Entity_Framework.Properties.Settings" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Lab9_Entity_Framework.Models.CategoryType">
+    <Position X="2" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
